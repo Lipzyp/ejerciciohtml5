@@ -1,0 +1,40 @@
+body {  
+    margin:0px;  
+    padding:0px;  
+    position:absolute;  
+    left: 50%;  
+    margin-left:-500px;  
+    }  
+
+header{  
+    width:1000px; 
+    height:150px;  
+    background-color:#008080;  
+    }  
+nav {  
+    background-color:#333;  
+    height:30px;}  
+section {  
+    height:auto;  
+    background-color:#00FF40;  
+    display:inline-block;
+    }  
+article {  
+    height:300px;  
+    width:600px;  
+    background-color:#999;  
+    margin:30px;  
+    float:left; 
+    }  
+aside {  
+    height:300px;  
+    width:300px;  
+    background-color:#00FFFF;  
+    margin-top:30px;  
+    float:left;    
+    }  
+footer {  
+    width:1000px;  
+    height:50px;  
+    background-color:#F3F3F3;  
+    }
